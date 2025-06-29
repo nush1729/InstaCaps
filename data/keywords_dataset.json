@@ -1,0 +1,10 @@
+{
+  "food": ["#foodie", "#yum", "#instafood", "#delicious", "#foodporn"],
+  "travel": ["#wanderlust", "#travelgram", "#vacation", "#explore", "#adventure"],
+  "fitness": ["#fitlife", "#workout", "#gym", "#health", "#fitnessmotivation"],
+  "fashion": ["#style", "#ootd", "#fashionista", "#trendy", "#outfit"],
+  "nature": ["#naturelover", "#scenery", "#landscape", "#outdoors", "#naturephotography"],
+  "art": ["#art", "#creative", "#design", "#artist", "#illustration"],
+  "pets": ["#dog", "#cat", "#pet", "#pets", "#animals"],
+  "tech": ["#tech", "#technology", "#gadget", "#innovation", "#coding"]
+}
