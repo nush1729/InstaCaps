@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🎓 <strong>Academic Project</strong> • 🤖 <strong>First GenAI Project</strong> • 📸 <strong>Computer Vision</strong> • 🧠 <strong>NLP Integration</strong>
+  🎓 <strong>Academic Project</strong> • 🤖 <strong>GenAI Project</strong> • 📸 <strong>Computer Vision</strong> • 🧠 <strong>NLP Integration</strong>
 </p>
 
 ---
@@ -57,27 +57,26 @@ InstaCaps analyzes uploaded images using AI and generates:
 ---
 
 ## 📁 Project Structure
-InstaCaps/
+``` InstaCaps/
 │
-├── app.py # Main application file
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── .gitignore # Git ignore rules
+├── app.py                    # Main application file
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+├── .gitignore                # Git ignore rules
 │
-├── utils/ # Core functionality modules
-│ ├── image_analysis.py # BLIP image processing
-│ ├── caption_generator.py # AI caption generation
-│ ├── hashtag_helper.py # Hashtag suggestion engine
-│ ├── bio_generator.py # Bio creation system
-│ └── filters.py # Image filter functions
+├── utils/                    # Core functionality modules
+│   ├── image_analysis.py       # BLIP image processing
+│   ├── caption_generator.py    # AI caption generation
+│   ├── hashtag_helper.py       # Hashtag suggestion engine
+│   ├── bio_generator.py        # Bio creation system
+│   └── filters.py              # Image filter functions
 │
-├── data/ # Data files
-│ └── keywords_dataset.json # Hashtag keyword mappings
+├── data/                     # Data files
+│   └── keywords_dataset.json   # Hashtag keyword mappings
 │
-└── pages/ # Additional pages
-└── about.py # About page content
-
-
+└── pages/                    # Additional pages
+    └── about.py                # About page content
+```
 ---
 
 ## 🚀 Getting Started
@@ -212,11 +211,8 @@ streamlit run app.py
 
 This project represents original work completed as part of my academic curriculum. All external resources, libraries, and references have been properly acknowledged. The implementation demonstrates understanding of generative AI concepts and their practical application.
 
-**Academic Integrity Statement**: This work is my own and has been completed in accordance with the academic integrity policies of my institution.
-
 ---
 
 <div align="center">
-<p><strong>🎓 Academic Project - First Generative AI Implementation</strong></p>
 <p>© 2025 - Academic Project </p>
 </div>
